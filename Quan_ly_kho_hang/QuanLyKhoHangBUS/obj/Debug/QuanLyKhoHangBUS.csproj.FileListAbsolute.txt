@@ -1,0 +1,9 @@
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangBUS.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangBUS.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangDAL.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangEntity.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\obj\Debug\QuanLyKhoHangBUS.csprojResolveAssemblyReference.cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\obj\Debug\QuanLyKhoHangBUS.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangBUS\obj\Debug\QuanLyKhoHangBUS.pdb

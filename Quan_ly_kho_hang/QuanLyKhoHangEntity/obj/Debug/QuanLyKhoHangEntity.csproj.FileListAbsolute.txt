@@ -1,0 +1,5 @@
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangEntity\bin\Debug\QuanLyKhoHangEntity.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangEntity\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangEntity\obj\Debug\QuanLyKhoHangEntity.csprojResolveAssemblyReference.cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangEntity\obj\Debug\QuanLyKhoHangEntity.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\QuanLyKhoHangEntity\obj\Debug\QuanLyKhoHangEntity.pdb

@@ -1,0 +1,16 @@
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csprojResolveAssemblyReference.cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChinh.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmDangNhap.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
