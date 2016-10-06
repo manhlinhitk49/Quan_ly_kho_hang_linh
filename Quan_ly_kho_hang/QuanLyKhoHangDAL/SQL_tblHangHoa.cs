@@ -29,5 +29,10 @@ namespace QuanLyKhoHangDAL
             return cn.ThucThiCauLenhSQL(@"DELETE FROM tblHangHoa where MaHH=N'"+et.MaHH+"'");
         }
         
+        public int TimKiem(string chuoitimkiem)
+        {
+            return cn.ThucThiCauLenhSQL(chuoitimkiem);
+        }
+
     }
 }
