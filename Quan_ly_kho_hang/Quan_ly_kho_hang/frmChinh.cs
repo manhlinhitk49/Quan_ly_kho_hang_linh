@@ -46,5 +46,11 @@ namespace Quan_ly_kho_hang
             frmHangHoa _frmHangHoa = new frmHangHoa();
             _frmHangHoa.Show();
         }
+
+        private void lblNhapHang_Click(object sender, EventArgs e)
+        {
+            frmPhieuNhap phieunhap = new frmPhieuNhap();
+            phieunhap.Show();
+        }
     }
 }

@@ -52,6 +52,7 @@ namespace Quan_ly_kho_hang
             if(tbl.Rows.Count>0)
             {
                 MessageBox.Show("Bạn đăng nhập thành công ^^", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Hide();
                 frmChinh _frmChinh = new frmChinh();
                 _frmChinh.Show();
             }

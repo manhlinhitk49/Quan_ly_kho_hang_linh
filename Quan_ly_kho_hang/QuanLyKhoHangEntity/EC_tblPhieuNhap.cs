@@ -28,9 +28,9 @@ namespace QuanLyKhoHangEntity
             get { return _NgayNhap; }
             set { _NgayNhap = value; }
         }
-        private float _TongTien;
+        private int _TongTien;
 
-        public float TongTien
+        public int TongTien
         {
             get { return _TongTien; }
             set { _TongTien = value; }

@@ -30,3 +30,4 @@ D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmPhieuNhap.resources

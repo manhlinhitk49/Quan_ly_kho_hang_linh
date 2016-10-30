@@ -256,11 +256,12 @@
             this.lblNhapHang.Size = new System.Drawing.Size(81, 13);
             this.lblNhapHang.TabIndex = 6;
             this.lblNhapHang.Text = "Nhập hàng hóa";
+            this.lblNhapHang.Click += new System.EventHandler(this.lblNhapHang_Click);
             // 
             // lblThongTinHH
             // 
             this.lblThongTinHH.AutoSize = true;
-            this.lblThongTinHH.Location = new System.Drawing.Point(111, 29);
+            this.lblThongTinHH.Location = new System.Drawing.Point(111, 30);
             this.lblThongTinHH.Name = "lblThongTinHH";
             this.lblThongTinHH.Size = new System.Drawing.Size(100, 13);
             this.lblThongTinHH.TabIndex = 5;

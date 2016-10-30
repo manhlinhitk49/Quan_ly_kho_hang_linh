@@ -28,16 +28,16 @@ namespace QuanLyKhoHangEntity
             get { return _SoLuong; }
             set { _SoLuong = value; }
         }
-        private float _DonGia;
+        private int _DonGia;
 
-        public float DonGia
+        public int DonGia
         {
             get { return _DonGia; }
             set { _DonGia = value; }
         }
-        private float _ThanhTien;
+        private int _ThanhTien;
 
-        public float ThanhTien
+        public int ThanhTien
         {
             get { return _ThanhTien; }
             set { _ThanhTien = value; }
