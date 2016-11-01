@@ -14,3 +14,20 @@ D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_h
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.exe
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.pdb
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\de_tai\quan_ly_kho_hang\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.exe
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.pdb
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.pdb
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.dll
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.dll
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.exe
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.pdb
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csprojResolveAssemblyReference.cache
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChinh.resources
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmDangNhap.resources
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
+D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmPhieuNhap.resources

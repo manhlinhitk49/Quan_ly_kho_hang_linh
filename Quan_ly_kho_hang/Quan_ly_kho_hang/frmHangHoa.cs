@@ -79,6 +79,7 @@ namespace Quan_ly_kho_hang
             }
             catch
             {
+
             }
         }
 
