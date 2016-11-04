@@ -27,5 +27,17 @@ namespace QuanLyKhoHangBUS
         {
             return sql.XoaDuLieu(et);
         }
+        public DataTable getHH(string dk)
+        {
+            return sql.getHH(dk);
+        }
+        public int SuaSoLuong(EC_tblHangHoa et)
+        {
+            return sql.SuaSoLuong(et);
+        }
+        public DataTable getHistory(string dk)
+        {
+            return sql.getHistory(dk);
+        }
     }
 }
