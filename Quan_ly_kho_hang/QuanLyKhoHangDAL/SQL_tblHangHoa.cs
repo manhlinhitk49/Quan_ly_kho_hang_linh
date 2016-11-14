@@ -46,6 +46,10 @@ where h.MaHH =  h.MaHH and h.SoLuong > 0"+ dk);
             return cn.GetDataTable(@"select h.MaHH,TenHH,  NSX, ThongTin, t.SoLuong, GiaXuat, t.NgayXuat from tblHangHoa h, (select p.NgayXuat, c.MaHH, p.MaCN, c.SoLuong from tblPhieuXuat p, tblChiTietPhieuXuat c where p.MaPX = c.MaPX ) t 
 where t.MaHH =  h.MaHH and t.SoLuong >0" + dk);
         }
-        
+
+        public DataTable TimKiem(string chuoitimkiem)
+        {
+            return cn.GetDataTable(chuoitimkiem);
+        }
     }
 }
