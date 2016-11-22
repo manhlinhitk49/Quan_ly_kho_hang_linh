@@ -31,3 +31,28 @@ D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
 D:\GitHub\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmPhieuNhap.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.dll
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.exe
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csprojResolveAssemblyReference.cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChinh.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmDangNhap.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmLichsuxuat.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmPhieuNhap.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmTimHang.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmXuathang.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmNhaCungCap.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe.config
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmThongKe.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.cache
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.compiled

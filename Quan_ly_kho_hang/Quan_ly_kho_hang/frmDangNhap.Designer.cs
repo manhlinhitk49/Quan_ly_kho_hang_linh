@@ -35,14 +35,16 @@
             this.txtMatKhau = new System.Windows.Forms.TextBox();
             this.DangNhap = new System.Windows.Forms.Button();
             this.Thoat = new System.Windows.Forms.Button();
+            this.chkHienThi = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(70, 24);
+            this.label1.Font = new System.Drawing.Font("Mistral", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(75, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 13);
+            this.label1.Size = new System.Drawing.Size(194, 33);
             this.label1.TabIndex = 0;
             this.label1.Text = "Xin mời đăng nhập";
             // 
@@ -86,7 +88,7 @@
             // 
             // DangNhap
             // 
-            this.DangNhap.Location = new System.Drawing.Point(58, 171);
+            this.DangNhap.Location = new System.Drawing.Point(63, 188);
             this.DangNhap.Name = "DangNhap";
             this.DangNhap.Size = new System.Drawing.Size(75, 23);
             this.DangNhap.TabIndex = 5;
@@ -96,7 +98,7 @@
             // 
             // Thoat
             // 
-            this.Thoat.Location = new System.Drawing.Point(204, 171);
+            this.Thoat.Location = new System.Drawing.Point(194, 188);
             this.Thoat.Name = "Thoat";
             this.Thoat.Size = new System.Drawing.Size(75, 23);
             this.Thoat.TabIndex = 6;
@@ -104,11 +106,24 @@
             this.Thoat.UseVisualStyleBackColor = true;
             this.Thoat.Click += new System.EventHandler(this.Thoat_Click);
             // 
+            // chkHienThi
+            // 
+            this.chkHienThi.AutoSize = true;
+            this.chkHienThi.Location = new System.Drawing.Point(141, 148);
+            this.chkHienThi.Name = "chkHienThi";
+            this.chkHienThi.Size = new System.Drawing.Size(109, 17);
+            this.chkHienThi.TabIndex = 7;
+            this.chkHienThi.Text = "Hiển thị mật khẩu";
+            this.chkHienThi.UseVisualStyleBackColor = true;
+            this.chkHienThi.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // frmDangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(337, 221);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.ClientSize = new System.Drawing.Size(345, 233);
+            this.Controls.Add(this.chkHienThi);
             this.Controls.Add(this.Thoat);
             this.Controls.Add(this.DangNhap);
             this.Controls.Add(this.txtMatKhau);
@@ -133,6 +148,7 @@
         private System.Windows.Forms.TextBox txtMatKhau;
         private System.Windows.Forms.Button DangNhap;
         private System.Windows.Forms.Button Thoat;
+        private System.Windows.Forms.CheckBox chkHienThi;
     }
 }
 

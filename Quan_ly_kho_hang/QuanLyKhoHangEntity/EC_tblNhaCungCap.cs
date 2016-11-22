@@ -21,12 +21,12 @@ namespace QuanLyKhoHangEntity
             get { return _TenNCC; }
             set { _TenNCC = value; }
         }
-        private string _DicChi;
+        private string _DiaChi;
 
-        public string DicChi
+        public string DiaChi
         {
-            get { return _DicChi; }
-            set { _DicChi = value; }
+            get { return _DiaChi; }
+            set { _DiaChi = value; }
         }
         private string _SDT;
 

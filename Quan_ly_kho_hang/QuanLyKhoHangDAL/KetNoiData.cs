@@ -15,7 +15,7 @@ namespace QuanLyKhoHangDAL
         public void MoKetNoi()
         {
             if (KetNoiData.connect == null)
-                KetNoiData.connect = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=QL_KhoHang;Integrated Security=True");
+                KetNoiData.connect = new SqlConnection(@"Data Source=MAILINH-PC;Initial Catalog=QL_KhoHang;Integrated Security=True");
             if (KetNoiData.connect.State != ConnectionState.Open)
                 KetNoiData.connect.Open();
         }

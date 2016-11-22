@@ -41,11 +41,14 @@
   <ItemGroup>
     <Compile Include="KetNoiData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQL_tblChiNhanh.cs" />
     <Compile Include="SQL_tblChiTietPhieuNhap.cs" />
+    <Compile Include="SQL_tblChiTietPhieuXuat.cs" />
     <Compile Include="SQL_tblDangNhap.cs" />
     <Compile Include="SQL_tblHangHoa.cs" />
     <Compile Include="SQL_tblNhaCungCap.cs" />
     <Compile Include="SQL_tblPhieuNhap.cs" />
+    <Compile Include="SQL_tblPhieuXuat.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QuanLyKhoHangEntity\QuanLyKhoHangEntity.csproj">

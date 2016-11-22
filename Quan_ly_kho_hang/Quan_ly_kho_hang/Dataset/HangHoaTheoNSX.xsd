@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HangHoaTheoNSX" targetNamespace="http://tempuri.org/HangHoaTheoNSX.xsd" xmlns:mstns="http://tempuri.org/HangHoaTheoNSX.xsd" xmlns="http://tempuri.org/HangHoaTheoNSX.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QL_KhoHangConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QL_KhoHangConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Quan_ly_kho_hang.Properties.Settings.GlobalReference.Default.QL_KhoHangConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="HangHoaTheoNSXTableAdapter" GeneratorDataComponentClassName="HangHoaTheoNSXTableAdapter" Name="HangHoaTheoNSX" UserDataComponentName="HangHoaTheoNSXTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_KhoHangConnectionString (Settings)" DbObjectName="QL_KhoHang.dbo.HangHoaTheoNSX" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        TongSL, NSX
+FROM            HangHoaTheoNSX</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TongSL" DataSetColumn="TongSL" />
+              <Mapping SourceColumn="NSX" DataSetColumn="NSX" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HangHoaTheoNSX" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="HangHoaTheoNSX" msprop:Generator_UserDSName="HangHoaTheoNSX">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="HangHoaTheoNSX" msprop:Generator_TableClassName="HangHoaTheoNSXDataTable" msprop:Generator_TableVarName="tableHangHoaTheoNSX" msprop:Generator_TablePropName="_HangHoaTheoNSX" msprop:Generator_RowDeletingName="HangHoaTheoNSXRowDeleting" msprop:Generator_RowChangingName="HangHoaTheoNSXRowChanging" msprop:Generator_RowEvHandlerName="HangHoaTheoNSXRowChangeEventHandler" msprop:Generator_RowDeletedName="HangHoaTheoNSXRowDeleted" msprop:Generator_UserTableName="HangHoaTheoNSX" msprop:Generator_RowChangedName="HangHoaTheoNSXRowChanged" msprop:Generator_RowEvArgName="HangHoaTheoNSXRowChangeEvent" msprop:Generator_RowClassName="HangHoaTheoNSXRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TongSL" msprop:Generator_ColumnVarNameInTable="columnTongSL" msprop:Generator_ColumnPropNameInRow="TongSL" msprop:Generator_ColumnPropNameInTable="TongSLColumn" msprop:Generator_UserColumnName="TongSL" type="xs:int" minOccurs="0" />
+              <xs:element name="NSX" msprop:Generator_ColumnVarNameInTable="columnNSX" msprop:Generator_ColumnPropNameInRow="NSX" msprop:Generator_ColumnPropNameInTable="NSXColumn" msprop:Generator_UserColumnName="NSX" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

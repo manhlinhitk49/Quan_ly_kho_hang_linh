@@ -39,8 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BUS_tblChiNhanh.cs" />
+    <Compile Include="BUS_tblChiTietPhieuXuat.cs" />
     <Compile Include="BUS_tblDangNhap.cs" />
     <Compile Include="BUS_tblHangHoa.cs" />
+    <Compile Include="BUS_tblNhaCungCap.cs" />
+    <Compile Include="BUS_tblPhieuxuat.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

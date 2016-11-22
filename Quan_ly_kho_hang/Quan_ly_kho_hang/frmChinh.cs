@@ -38,6 +38,9 @@ namespace Quan_ly_kho_hang
 
         private void label4_Click_1(object sender, EventArgs e)
         {
+            this.Close();
+            frmDangNhap frm = new frmDangNhap();
+            frm.Show();
 
         }
 
@@ -51,6 +54,64 @@ namespace Quan_ly_kho_hang
         {
             frmPhieuNhap phieunhap = new frmPhieuNhap();
             phieunhap.Show();
+        }
+
+        private void lbTimHang_Click(object sender, EventArgs e)
+        {
+            frmTimHang timhh = new frmTimHang();
+            timhh.Show();
+        }
+
+        private void lblNhaCungCap_Click(object sender, EventArgs e)
+        {
+            frmNhaCungCap timhh = new frmNhaCungCap();
+            timhh.Show();
+        }
+
+        private void đốiTácToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmNhaCungCap timhh = new frmNhaCungCap();
+            timhh.Show();
+        }
+
+        private void chiNhánhToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            frmHangHoa _frmHangHoa = new frmHangHoa();
+            _frmHangHoa.Show();
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            frmPhieuNhap phieunhap = new frmPhieuNhap();
+            phieunhap.Show();
+        }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            frmXuathang frmXuat = new frmXuathang();
+            frmXuat.Show();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            frmXuathang frmXuat = new frmXuathang();
+            frmXuat.Show();
+        }
+
+        private void lblThongKe_Click(object sender, EventArgs e)
+        {
+            frmThongKe fr = new frmThongKe();
+            fr.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

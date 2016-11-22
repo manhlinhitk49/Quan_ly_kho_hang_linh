@@ -71,5 +71,15 @@ namespace Quan_ly_kho_hang
                 System.Windows.Forms.Application.Exit();
             }
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkHienThi.Checked == true)
+            {
+                txtMatKhau.UseSystemPasswordChar = false;
+            }
+            else
+                txtMatKhau.UseSystemPasswordChar = true;
+        }
     }
 }
