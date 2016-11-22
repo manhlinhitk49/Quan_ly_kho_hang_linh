@@ -40,5 +40,9 @@ namespace QuanLyKhoHangBUS
         {
             return sql.getField(field, table, dk);
         }
+        public string XoaDuLieu_CoThongBao(EC_tblChiNhanh et)
+        {
+            return sql.XoaDuLieu_CoThongBao(et);
+        }
     }
 }
