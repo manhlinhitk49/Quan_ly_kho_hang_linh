@@ -113,5 +113,11 @@ namespace Quan_ly_kho_hang
         {
             this.Close();
         }
+
+        private void lblChiNhanh_Click(object sender, EventArgs e)
+        {
+            frmChiNhanh fr = new frmChiNhanh();
+            fr.Show();
+        }
     }
 }
