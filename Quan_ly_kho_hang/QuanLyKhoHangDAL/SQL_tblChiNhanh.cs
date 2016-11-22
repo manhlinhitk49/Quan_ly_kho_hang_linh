@@ -17,20 +17,27 @@ namespace QuanLyKhoHangDAL
         public int ThemDuLieu(EC_tblChiNhanh et)
         {
             return cn.ThucThiCauLenhSQL(@"INSERT INTO tblChiNhanh (MaCN,TenCN,DiaChi,SDT) 
-            VALUES('" + et.MaCN + "', N'" + et.TenCN + "',N'" + et.DiaChi + "', " + et.SDT + ")");
+            VALUES(N'" + et.MaCN + "', N'" + et.TenCN + "',N'" + et.DiaChi + "', " + et.SDT + ")");
         }
         public int SuaDuLieu(EC_tblChiNhanh et)
         {
-            return cn.ThucThiCauLenhSQL(@"UPDATE tblChiNhanh SET TenCN =N'" + et.MaCN + "', DiaChi =N'" + et.DiaChi + "', SDT ='" + et.SDT + "' where MaNC= '" + et.MaCN + "'");
+            return cn.ThucThiCauLenhSQL(@"UPDATE tblChiNhanh SET TenCN =N'" + et.TenCN + "', DiaChi =N'" + et.DiaChi + "', SDT ='" + et.SDT + "' where MaNC= '" + et.MaCN + "'");
         }
         public int XoaDuLieu(EC_tblChiNhanh et)
         {
             return cn.ThucThiCauLenhSQL(@"DELETE FROM tblChiNhanh where MaCN=N'" + et.MaCN + "'");
         }
-
         public DataTable getField(string field, string table, string dk)
         {
             return cn.GetDataTable(@"Select distinct " + field + " from " + table + " " + dk);
+        }
+        public string XoaDuLieu_CoThongBao(EC_tblChiNhanh et)
+        {
+            return cn.ThucThiCauLenhSQL_CoThongBao(@"DELETE FROM tblChiNhanh where MaCN=N'" + et.MaCN + "'");
+        }
+        public int TimKiem(string chuoitimkiem)
+        {
+            return cn.ThucThiCauLenhSQL(chuoitimkiem);
         }
     }
 }
