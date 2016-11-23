@@ -31,25 +31,45 @@
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            this.phieunhapphieuxuatBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.nhapXuat = new Quan_ly_kho_hang.Dataset.NhapXuat();
+            this.hangHoaTheoNSXBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.hangHoaTheoNSX = new Quan_ly_kho_hang.Dataset.HangHoaTheoNSX();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.nhapXuat = new Quan_ly_kho_hang.Dataset.NhapXuat();
-            this.phieunhapphieuxuatBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.phieu_nhap_phieu_xuatTableAdapter = new Quan_ly_kho_hang.Dataset.NhapXuatTableAdapters.phieu_nhap_phieu_xuatTableAdapter();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.reportViewer2 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.hangHoaTheoNSX = new Quan_ly_kho_hang.Dataset.HangHoaTheoNSX();
-            this.hangHoaTheoNSXBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.phieu_nhap_phieu_xuatTableAdapter = new Quan_ly_kho_hang.Dataset.NhapXuatTableAdapters.phieu_nhap_phieu_xuatTableAdapter();
             this.hangHoaTheoNSXTableAdapter = new Quan_ly_kho_hang.Dataset.HangHoaTheoNSXTableAdapters.HangHoaTheoNSXTableAdapter();
+            ((System.ComponentModel.ISupportInitialize)(this.phieunhapphieuxuatBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nhapXuat)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSXBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSX)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.nhapXuat)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.phieunhapphieuxuatBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSX)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSXBindingSource)).BeginInit();
             this.SuspendLayout();
+            // 
+            // phieunhapphieuxuatBindingSource
+            // 
+            this.phieunhapphieuxuatBindingSource.DataMember = "phieu_nhap_phieu_xuat";
+            this.phieunhapphieuxuatBindingSource.DataSource = this.nhapXuat;
+            // 
+            // nhapXuat
+            // 
+            this.nhapXuat.DataSetName = "NhapXuat";
+            this.nhapXuat.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // hangHoaTheoNSXBindingSource
+            // 
+            this.hangHoaTheoNSXBindingSource.DataMember = "HangHoaTheoNSX";
+            this.hangHoaTheoNSXBindingSource.DataSource = this.hangHoaTheoNSX;
+            // 
+            // hangHoaTheoNSX
+            // 
+            this.hangHoaTheoNSX.DataSetName = "HangHoaTheoNSX";
+            this.hangHoaTheoNSX.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tabControl1
             // 
@@ -69,19 +89,8 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(602, 342);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "Thống kê 1";
             this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.Controls.Add(this.reportViewer2);
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(602, 342);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // reportViewer1
             // 
@@ -95,19 +104,16 @@
             this.reportViewer1.Size = new System.Drawing.Size(596, 336);
             this.reportViewer1.TabIndex = 0;
             // 
-            // nhapXuat
+            // tabPage2
             // 
-            this.nhapXuat.DataSetName = "NhapXuat";
-            this.nhapXuat.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // phieunhapphieuxuatBindingSource
-            // 
-            this.phieunhapphieuxuatBindingSource.DataMember = "phieu_nhap_phieu_xuat";
-            this.phieunhapphieuxuatBindingSource.DataSource = this.nhapXuat;
-            // 
-            // phieu_nhap_phieu_xuatTableAdapter
-            // 
-            this.phieu_nhap_phieu_xuatTableAdapter.ClearBeforeFill = true;
+            this.tabPage2.Controls.Add(this.reportViewer2);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(602, 342);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Thông kê 2";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // reportViewer2
             // 
@@ -121,15 +127,9 @@
             this.reportViewer2.Size = new System.Drawing.Size(596, 336);
             this.reportViewer2.TabIndex = 0;
             // 
-            // hangHoaTheoNSX
+            // phieu_nhap_phieu_xuatTableAdapter
             // 
-            this.hangHoaTheoNSX.DataSetName = "HangHoaTheoNSX";
-            this.hangHoaTheoNSX.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // hangHoaTheoNSXBindingSource
-            // 
-            this.hangHoaTheoNSXBindingSource.DataMember = "HangHoaTheoNSX";
-            this.hangHoaTheoNSXBindingSource.DataSource = this.hangHoaTheoNSX;
+            this.phieu_nhap_phieu_xuatTableAdapter.ClearBeforeFill = true;
             // 
             // hangHoaTheoNSXTableAdapter
             // 
@@ -144,13 +144,13 @@
             this.Name = "frmThongKe";
             this.Text = "ThongKe";
             this.Load += new System.EventHandler(this.ThongKe_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.phieunhapphieuxuatBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nhapXuat)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSXBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSX)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.nhapXuat)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.phieunhapphieuxuatBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSX)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.hangHoaTheoNSXBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }

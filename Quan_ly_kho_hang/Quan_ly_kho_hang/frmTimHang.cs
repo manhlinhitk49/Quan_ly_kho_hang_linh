@@ -107,5 +107,10 @@ namespace Quan_ly_kho_hang
         {
             dauXuat = cboXuat.SelectedItem.ToString();
         }
+
+        private void txtMa_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

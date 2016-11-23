@@ -56,3 +56,4 @@ D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_han
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmThongKe.resources
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.cache
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.compiled
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChiNhanh.resources

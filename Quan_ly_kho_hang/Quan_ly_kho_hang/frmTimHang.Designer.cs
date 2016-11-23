@@ -208,6 +208,7 @@
             this.txtMa.Name = "txtMa";
             this.txtMa.Size = new System.Drawing.Size(81, 21);
             this.txtMa.TabIndex = 0;
+            this.txtMa.TextChanged += new System.EventHandler(this.txtMa_TextChanged);
             // 
             // label1
             // 
