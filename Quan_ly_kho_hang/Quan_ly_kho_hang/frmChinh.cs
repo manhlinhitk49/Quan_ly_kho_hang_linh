@@ -119,5 +119,17 @@ namespace Quan_ly_kho_hang
             frmChiNhanh fr = new frmChiNhanh();
             fr.Show();
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            HuongDan fr = new HuongDan();
+            fr.Show();
+        }
+
+        private void hướngDẫnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            HuongDan fr = new HuongDan();
+            fr.Show();
+        }
     }
 }

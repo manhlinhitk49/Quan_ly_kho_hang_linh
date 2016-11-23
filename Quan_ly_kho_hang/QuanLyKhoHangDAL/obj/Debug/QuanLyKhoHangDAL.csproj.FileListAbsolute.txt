@@ -19,3 +19,10 @@ D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_han
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.csprojResolveAssemblyReference.cache
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.dll
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\bin\Debug\QuanLyKhoHangDAL.dll
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\bin\Debug\QuanLyKhoHangEntity.exe
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.csprojResolveAssemblyReference.cache
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.dll
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\QuanLyKhoHangDAL\obj\Debug\QuanLyKhoHangDAL.pdb

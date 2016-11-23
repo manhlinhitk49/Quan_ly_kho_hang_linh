@@ -57,3 +57,28 @@ D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_han
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.cache
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\RdlCompile.compiled
 D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChiNhanh.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe.config
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.exe
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.exe
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\Quan_ly_kho_hang.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.dll
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.dll
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.exe
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangBUS.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangDAL.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\bin\Debug\QuanLyKhoHangEntity.pdb
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csprojResolveAssemblyReference.cache
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChinh.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmChiNhanh.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmDangNhap.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmHangHoa.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmLichsuxuat.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmNhaCungCap.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmPhieuNhap.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmTimHang.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmXuathang.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.Properties.Resources.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmThongKe.resources
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
+D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.HuongDan.resources
