@@ -82,3 +82,4 @@ D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug
 D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.frmThongKe.resources
 D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.csproj.GenerateResource.Cache
 D:\GitHubLocal\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.HuongDan.resources
+D:\HOC TAP\ky1_nam4\ki1_nam4\thuc_tap_nhom\Quan_ly_kho_hang_linh\Quan_ly_kho_hang\Quan_ly_kho_hang\obj\Debug\Quan_ly_kho_hang.HuongDan.resources

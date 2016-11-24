@@ -39,7 +39,8 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(749, 351);
             this.webBrowser1.TabIndex = 0;
-            this.webBrowser1.Url = new System.Uri("C:\\Users\\Kevil\\Desktop\\huongdan_khohang.mhtml", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("D:\\HOC TAP\\ky1_nam4\\ki1_nam4\\thuc_tap_nhom\\Quan_ly_kho_hang_linh\\huongdan_khohang" +
+        ".mhtml", System.UriKind.Absolute);
             // 
             // HuongDan
             // 
